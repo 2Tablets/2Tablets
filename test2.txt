@@ -1,2 +1,2 @@
 for pull request
-edit all
+edit all 2
